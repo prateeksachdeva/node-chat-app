@@ -1,0 +1,8 @@
+"scripts": {
+    "start":"node servr/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines":{
+    "node":"9.4.0"
+  },
+for socket we use http for server
